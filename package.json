@@ -38,7 +38,7 @@
     "lodash": "^4.17.19",
     "melanke-watchjs": "^1.5.2",
     "popper.js": "^1.16.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "css-loader": "^2.1.1",
